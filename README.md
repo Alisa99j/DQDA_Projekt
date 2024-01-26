@@ -6,7 +6,7 @@ Um diese Forschungsfragen zu beantworten wurden folgende Methoden verwendet: Sta
 
 # Informationen zum Datensatz 
 
-![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/be5d94b4-13c3-47ef-b8c1-9803610fc4cc)
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/dac409c1-f724-44bd-886b-d773177028d9)
 
 Der Datensatz wurde auf von Kaggle herangezogen: https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games 
 
@@ -39,8 +39,8 @@ Das Genre 'Action' stellt mit 31,8% den größten Anteil der Spiele im Datensatz
 
 'Comedy', 'Crime', 'Mystery' und 'Thriller' haben die niedrigsten Anteile mit 4,8%, 3,4%, 3,2% und 3,2%. Diese Genres könnten spezialisierte Nischen darstellen, die auf bestimmte Spielergruppen ausgerichtet sind oder oft in Kombination mit anderen Genres wie Action und Adventure auftreten.
 
-# Forschungsfrage 2 
-Altersfreigabe und Popularität: Hat die Altersfreigabe (certificate) eines Spiels einen Einfluss auf seine Popularität (Bewertungen und Stimmen)? Sind Spiele mit einer bestimmten Altersfreigabe im Durchschnitt beliebter?
+# Forschungsfrage 2 - Altersfreigabe und Popularität
+Hat die Altersfreigabe (certificate) eines Spiels einen Einfluss auf seine Popularität (Bewertungen und Stimmen)? Sind Spiele mit einer bestimmten Altersfreigabe im Durchschnitt beliebter?
 
 Die folgende Grafik zeigt die durchschnittliche Bewertung (rating) und die durchschnittliche Anzahl von Stimmen (votes) für Spiele, gruppiert nach ihrer Altersfreigabe (certificate).
 

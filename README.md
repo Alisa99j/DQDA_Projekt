@@ -107,7 +107,7 @@ Um die Forschungsfrage zu beantworten, welche Genres dazu neigen, bestimmte Alte
 
 Diese Methode eignet sich besonders gut, da sie es ermöglicht, die Häufigkeiten der Kombinationen dieser kategorialen Variablen zu zählen und in einer Matrixform darzustellen. Dadurch kann man leicht erkennen, ob es bestimmte Muster gibt, wie etwa ob bestimmte Genres eine Tendenz zu bestimmten Altersfreigaben aufweisen.
 
-![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/4ec4d93a-2dfd-4bc2-94e5-fdb3e447baa7)
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/6abc85df-2391-404e-be67-8d4bf6948b96)
 
 ![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/78222462-065f-4bef-8f37-2b8df0e53e42)
 
